@@ -20,7 +20,7 @@ import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.TimeUnit;
 
 public class TelegramBot extends TelegramLongPollingBot {
-    private static final String BOTTOKEN = "8190736614:AAGY_tJuXA2mT3wrVoeem__0RijlTGPLHGo"; // Замените на ваш токен
+    private static final String BOTTOKEN = "8190736614:AAHF67KXO2JAiVd6lPQjLFGe8vK0cFeteKg"; // Замените на ваш токен
     private static final String CHANNELLINK = "https://t.me/modka_777"; // Замените на ссылку вашего канала
     private static final long CHANNELID =  -1001911114298; // Замените на ID вашего канала (например, -100123456789)
     private static final long ADMINID = 5131311133; // Замените на ваш ID
